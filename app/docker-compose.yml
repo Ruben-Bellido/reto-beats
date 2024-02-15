@@ -1,0 +1,27 @@
+version: '3.7'
+
+services:
+
+  python:
+    build: ./filebeat
+    volumes:
+      - ./data:/usr/share/filebeat/data
+    #command: python generate-data.py
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+    environment:
+      - discovery.type=single-node
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8:12:1
+    volumes:
+      - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./data:/usr/share/filebeat/data
+    depends_on:
+      - python
+      - elasticsearch

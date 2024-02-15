@@ -1,0 +1,17 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /usr/share/filebeat/data/dummy.json
+  fields:
+    index: "index1"
+- type: log
+  enabled: true
+  paths:
+    - /usr/share/filebeat/data/dummy.json
+  fields:
+    index: "index2"
+
+output.elasticsearch:
+  hosts: ["elasticsearch:9200"]
+  #index: "%{[fields.index]}-%{+yyyy.MM.dd}"

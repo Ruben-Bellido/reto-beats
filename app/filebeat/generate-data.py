@@ -1,5 +1,4 @@
 import json
-import os
 
 # Datos dummy para los archivos JSON
 data = {
@@ -9,5 +8,5 @@ data = {
 }
 
 # Escribir los datos en los archivos JSON
-with open(os.path.join('data', 'dummy.json'), 'w') as f:
+with open('/usr/share/filebeat/data/dummy.json', 'w') as f:
     json.dump(data, f)

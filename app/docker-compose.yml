@@ -5,10 +5,13 @@ services:
   python:
     build: ./filebeat
     volumes:
-      - ./data:/usr/share/filebeat/data
+      - ./logs:/usr/share/filebeat/logs
 
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+    volumes:
+      - ./elasticsearch/certs:/usr/share/elasticsearch/config/certs
+      - ./elasticsearch/data:/usr/share/elasticsearch/data
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
@@ -19,7 +22,11 @@ services:
     image: docker.elastic.co/beats/filebeat:8.12.1
     volumes:
       - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
-      - ./data:/usr/share/filebeat/data
+      - ./filebeat/certs:/usr/share/filebeat/certs
+      - ./filebeat/data:/usr/share/filebeat/data
+      - ./logs:/usr/share/filebeat/logs
+    environment:
+      - ELASTIC_HOSTS=https://elasticsearch:9200
     depends_on:
       - python
       - elasticsearch

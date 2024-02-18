@@ -1,0 +1,228 @@
+{"op":"set","id":1}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy.json"}}}
+{"op":"set","id":2}
+{"k":"filestream::dummy::native::126336-2080","v":{"updated":[433393280,1708273409],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":3}
+{"k":"filestream::dummy::native::126336-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[433393280,1708273409],"cursor":null}}
+{"op":"set","id":4}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":5}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[314625781,1708274075],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy copy.json"}}}
+{"op":"set","id":6}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[314625781,1708274075],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":7}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":1800000000000,"updated":[433393280,1708273409],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":8}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[314625781,1708274075],"cursor":null}}
+{"op":"set","id":9}
+{"k":"filestream::dummy::native::126336-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[433393280,1708273409],"cursor":null}}
+{"op":"set","id":10}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[314625781,1708274075],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":11}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null}}
+{"op":"set","id":12}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[397246587,1708278554],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":13}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":0,"updated":[433393280,1708273409],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":14}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":15}
+{"k":"filestream::dummy::native::126336-2080","v":{"updated":[396275728,1708280004],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":16}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/test.json","identifier_name":"native"}}}
+{"op":"set","id":17}
+{"k":"filestream::dummy::native::31068-2080","v":{"updated":[397054265,1708280064],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/test.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":18}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":0,"updated":[397054265,1708280064],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/test.json","identifier_name":"native"}}}
+{"op":"set","id":19}
+{"k":"filestream::dummy::native::31068-2080","v":{"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"},"ttl":0}}
+{"op":"set","id":20}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":1800000000000,"updated":[396484092,1708280114],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"}}}
+{"op":"set","id":21}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":0,"updated":[396484092,1708280114],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"}}}
+{"op":"set","id":22}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"}}}
+{"op":"set","id":23}
+{"k":"filestream::dummy::native::31068-2080","v":{"ttl":1800000000000,"updated":[396951263,1708280174],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"}}}
+{"op":"set","id":24}
+{"k":"filestream::dummy::native::31068-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/data.json","identifier_name":"native"},"ttl":0,"updated":[396951263,1708280174],"cursor":null}}
+{"op":"set","id":25}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[397246587,1708278554],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":26}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":1800000000000,"updated":[396275728,1708280004],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":27}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":28}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[593142015,1708280648],"cursor":null}}
+{"op":"set","id":29}
+{"k":"filestream::dummy::native::113670-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":0,"updated":[593142015,1708280648]}}
+{"op":"set","id":30}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":31}
+{"k":"filestream::dummy::native::113670-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[606046026,1708280738]}}
+{"op":"set","id":32}
+{"k":"filestream::dummy::native::113670-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[606046026,1708280738]}}
+{"op":"set","id":33}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":1800000000000,"updated":[396275728,1708280004],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":34}
+{"k":"filestream::dummy::native::126336-2080","v":{"updated":[396275728,1708280004],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy.json"},"ttl":1800000000000}}
+{"op":"set","id":35}
+{"k":"filestream::dummy::native::113670-2080","v":{"updated":[606046026,1708280738],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":36}
+{"k":"filestream::dummy::native::113670-2080","v":{"updated":[606046026,1708280738],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":37}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":1800000000000,"updated":[396275728,1708280004],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":38}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[606046026,1708280738],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":39}
+{"k":"filestream::dummy::native::126336-2080","v":{"updated":[396275728,1708280004],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":40}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy copy.json"},"ttl":0,"updated":[606046026,1708280738],"cursor":null}}
+{"op":"set","id":41}
+{"k":"filestream::dummy::native::53629-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":42}
+{"k":"filestream::dummy::native::53629-2080","v":{"ttl":1800000000000,"updated":[386155244,1708282481],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":43}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":44}
+{"k":"filestream::dummy::native::113670-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[389640368,1708282711]}}
+{"op":"set","id":45}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[389640368,1708282711],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":46}
+{"k":"filestream::dummy::native::53629-2080","v":{"ttl":1800000000000,"updated":[386155244,1708282481],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":47}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null}}
+{"op":"set","id":48}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[773938706,1708282934],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":49}
+{"k":"filestream::dummy::native::113670-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"},"ttl":0,"updated":[773938706,1708282934],"cursor":null}}
+{"op":"set","id":50}
+{"k":"filestream::dummy::native::53629-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[386155244,1708282481]}}
+{"op":"set","id":51}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":52}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[837282805,1708283112],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":53}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[837282805,1708283112],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":54}
+{"k":"filestream::dummy::native::53629-2080","v":{"ttl":1800000000000,"updated":[386155244,1708282481],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"}}}
+{"op":"set","id":55}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":56}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[40039061,1708283589],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":57}
+{"k":"filestream::dummy::native::53629-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy.json","identifier_name":"native"},"ttl":1800000000000,"updated":[386155244,1708282481]}}
+{"op":"set","id":58}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[40039061,1708283589],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":59}
+{"k":"filestream::dummy::native::53629-2080","v":{"ttl":0,"updated":[386155244,1708282481],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy.json"}}}
+{"op":"set","id":60}
+{"k":"filestream::dummy::native::126336-2080","v":{"ttl":0,"updated":[396275728,1708280004],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy.json"}}}
+{"op":"set","id":61}
+{"k":"filestream::dummy::native::113670-2080","v":{"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy copy.json"},"ttl":0,"updated":[40039061,1708283589]}}
+{"op":"set","id":62}
+{"k":"filestream::dummy::native::53739-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":63}
+{"k":"filestream::dummy::native::53739-2080","v":{"ttl":1800000000000,"updated":[79603282,1708285361],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":64}
+{"k":"filestream::dummy::native::53760-2080","v":{"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"},"ttl":0}}
+{"op":"set","id":65}
+{"k":"filestream::dummy::native::53761-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":66}
+{"k":"filestream::dummy::native::53760-2080","v":{"ttl":1800000000000,"updated":[266177305,1708285595],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":67}
+{"k":"filestream::dummy::native::53761-2080","v":{"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_1.json"},"ttl":1800000000000,"updated":[266375805,1708285595]}}
+{"op":"set","id":68}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":69}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":1800000000000,"updated":[267888038,1708285715],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":70}
+{"k":"filestream::dummy::native::113670-2080","v":{"ttl":0,"updated":[267888038,1708285715],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy copy.json","identifier_name":"native"}}}
+{"op":"set","id":71}
+{"k":"filestream::dummy::native::53760-2080","v":{"updated":[266177305,1708285595],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"},"ttl":1800000000000}}
+{"op":"set","id":72}
+{"k":"filestream::dummy::native::53761-2080","v":{"ttl":1800000000000,"updated":[266375805,1708285595],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":73}
+{"k":"filestream::dummy::native::53761-2080","v":{"ttl":0,"updated":[266375805,1708285595],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":74}
+{"k":"filestream::dummy::native::53761-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":0,"updated":[281470681743360,18446744011573954816]}}
+{"op":"set","id":75}
+{"k":"filestream::dummy::native::53761-2080","v":{"ttl":1800000000000,"updated":[889920357,1708295185],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":76}
+{"k":"filestream::dummy::native::53793-2080","v":{"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"},"ttl":0}}
+{"op":"set","id":77}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":78}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[970444723,1708295586],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":79}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[970650023,1708295586],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":80}
+{"k":"filestream::dummy0::native::53793-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"},"ttl":0,"updated":[281470681743360,18446744011573954816]}}
+{"op":"set","id":81}
+{"k":"filestream::dummy0::native::53793-2080","v":{"ttl":1800000000000,"updated":[762853213,1708295849],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":82}
+{"k":"filestream::dummy1::native::53794-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":83}
+{"k":"filestream::dummy1::native::53794-2080","v":{"updated":[763857613,1708295849],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":84}
+{"k":"filestream::dummy0::native::53793-2080","v":{"updated":[762853213,1708295849],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"},"ttl":1800000000000}}
+{"op":"set","id":85}
+{"k":"filestream::dummy1::native::53794-2080","v":{"ttl":1800000000000,"updated":[763857613,1708295849],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":86}
+{"k":"filestream::dummy0::native::53793-2080","v":{"ttl":1800000000000,"updated":[762853213,1708295849],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"}}}
+{"op":"set","id":87}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[970444723,1708295586],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":88}
+{"k":"filestream::dummy::native::53794-2080","v":{"updated":[970650023,1708295586],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":1800000000000}}
+{"op":"set","id":89}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[909848672,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":90}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_1.json"}}}
+{"op":"remove","id":91}
+{"k":"filestream::dummy::native::113670-2080"}
+{"op":"remove","id":92}
+{"k":"filestream::dummy::native::126336-2080"}
+{"op":"remove","id":93}
+{"k":"filestream::dummy::native::53629-2080"}
+{"op":"remove","id":94}
+{"k":"filestream::dummy::native::31068-2080"}
+{"op":"set","id":95}
+{"k":"filestream::dummy::native::53793-2080","v":{"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"},"ttl":1800000000000,"updated":[909848672,1708296306]}}
+{"op":"set","id":96}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":97}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":98}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[909848672,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":99}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[909848672,1708296306],"cursor":{"offset":123},"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"}}}
+{"op":"set","id":100}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":101}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[909848672,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":102}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":103}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":0,"updated":[909848672,1708296306],"cursor":{"offset":123},"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"}}}
+{"op":"set","id":104}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"}}}
+{"op":"set","id":105}
+{"k":"filestream::dummy::native::53793-2080","v":{"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_0.json"},"ttl":1800000000000,"updated":[854838840,1708298159],"cursor":null}}
+{"op":"set","id":106}
+{"k":"filestream::dummy::native::53793-2080","v":{"ttl":1800000000000,"updated":[855653038,1708298159],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_0.json","identifier_name":"native"}}}
+{"op":"set","id":107}
+{"k":"filestream::dummy::native::53794-2080","v":{"updated":[909361272,1708296306],"cursor":{"offset":123},"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":0}}
+{"op":"set","id":108}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":0,"updated":[281470681743360,18446744011573954816],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":109}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[855047750,1708298219],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":110}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[856047350,1708298219],"cursor":{"offset":123},"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_1.json"}}}
+{"op":"set","id":111}
+{"k":"filestream::dummy::native::53794-2080","v":{"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":0,"updated":[856047350,1708298219],"cursor":{"offset":123}}}
+{"op":"set","id":112}
+{"k":"filestream::dummy::native::53794-2080","v":{"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"},"ttl":0,"updated":[281470681743360,18446744011573954816]}}
+{"op":"set","id":113}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[855314380,1708298269],"cursor":null,"meta":{"source":"/usr/share/filebeat/logs/dummy_1.json","identifier_name":"native"}}}
+{"op":"set","id":114}
+{"k":"filestream::dummy::native::53794-2080","v":{"ttl":1800000000000,"updated":[856455679,1708298269],"cursor":{"offset":123},"meta":{"identifier_name":"native","source":"/usr/share/filebeat/logs/dummy_1.json"}}}

@@ -1,8 +1,8 @@
 filebeat.inputs:
 - type: filestream
   enabled: true
-  id: dummy
-  paths: /usr/share/filebeat/logs/*.json
+  id: dummy0
+  paths: /usr/share/filebeat/logs/dummy_0.json
   parsers:
     - ndjson:
         keys_under_root: true
@@ -10,24 +10,23 @@ filebeat.inputs:
         add_error_key: true
         expand_keys: true
   fields:
-    index: "dummy"
-
-#filebeat.autodiscover:
- #providers:
-   #- type: docker
-     #hints.enabled: true
-
-#processors:
-  #- decode_json_fields:
-  #    fields: ["id", "state", "timestamp"]
-  #- drop_fields:
-  #    fields: ["agent", "ecs", "fields", "host", "input", "log"]
-  #- add_cloud_metadata: null
-  #- add_host_metadata: null
+    index: "dummy0"
+- type: filestream
+  enabled: true
+  id: dummy1
+  paths: /usr/share/filebeat/logs/dummy_1.json
+  parsers:
+    - ndjson:
+        keys_under_root: true
+        overwrite_keys: true
+        add_error_key: true
+        expand_keys: true
+  fields:
+    index: "dummy1"
 
 output.elasticsearch:
   hosts: ["elasticsearch:9200"]
   index: "%{[fields.index]}"
 
-setup.template.name: "app"
-setup.template.pattern: "app-*"
+setup.template.name: "beat"
+setup.template.pattern: "beat-*"

@@ -23,5 +23,5 @@ while True:
   # Incrementar id
   id += 1
   
-  # Esperar 10s
-  time.sleep(10)
+  # Esperar 30s
+  time.sleep(30)

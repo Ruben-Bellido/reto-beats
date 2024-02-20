@@ -4,6 +4,7 @@ services:
 
   python:
     build: ./filebeat
+    image: generate-data
     volumes:
       - ./logs:/usr/share/filebeat/logs
 
